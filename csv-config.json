@@ -1,1 +1,11 @@
 
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-08",
+  "regions": {
+    "rucis": "V0D00PROD000005YWX,00D3E0000000PLIUA2",
+    "apna": "V0D00PROD000005YP1,00DO0000004yKZNMA2",
+    "mena": "V0D00PROD000005XHW,00D7E000000FVmSUAW",
+    "latam": "V0D00PROD000005YJN,V0D00PROD000005VKI"
+  }
+}
