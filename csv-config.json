@@ -1,11 +1,16 @@
-
 {
-  "version": "1.0.0",
-  "lastUpdated": "2026-06-08",
-  "regions": {
+  "crmOrgMapping": {
     "rucis": "V0D00PROD000005YWX,00D3E0000000PLIUA2",
     "apna": "V0D00PROD000005YP1,00DO0000004yKZNMA2",
     "mena": "V0D00PROD000005XHW,00D7E000000FVmSUAW",
     "latam": "V0D00PROD000005YJN,V0D00PROD000005VKI"
+  },
+  "defaults": {
+    "lifecycle__v": "CRM Content Lifecycle",
+    "slide.clm_content__v": "YES",
+    "slide.crm_shared_resource__v": "NO",
+    "slide.engage_content__v": "NO",
+    "slide.crm_media_type__v": "HTML",
+    "Fields Only": "No"
   }
 }
